@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!LICENCE
+!*.sh
+!*.groovy
+!scripts/*.groovy
+!scripts/*.sh
+!configs/*.properties
+!Dockerfile
