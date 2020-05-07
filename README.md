@@ -7,7 +7,9 @@ For more script example see [Sonatype repository](https://github.com/sonatype-ne
 $ git clone git@github.com:Celcis/nexus-automation.git
 
 #start docker container
-$ docker run --rm -d -p 8081:8081 --name nexus auto
+$ cd nexus-automation
+$ docker build -t automate_nexus
+$ docker run --rm -d -p 8081:8081 --name nexus automate_nexus
 #approximately 1 minutes later nexus server is ready
 # then make the provision executable and run it by
 $ chmod +x scripts/provision.sh && ./provision
