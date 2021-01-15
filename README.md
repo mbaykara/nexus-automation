@@ -4,7 +4,7 @@ For more script example see [Sonatype repository](https://github.com/sonatype-ne
 
 ```bash
 ##clone repository
-$ git clone git@github.com:Celcis/nexus-automation.git
+$ git clone https://github.com/mbaykara/nexus-automation.git
 
 #start docker container
 $ cd nexus-automation
