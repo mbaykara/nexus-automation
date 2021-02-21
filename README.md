@@ -1,7 +1,7 @@
 # nexus-automation
 The detailed explanation of this repo is here: 
-[How to Automate Nexus Repository Manager](https://baykara.medium.com/how-to-automate-nexus-setup-process-5755183bc322)
-All scripts based on -> 
+[How to Automate Nexus Repository Manager](https://baykara.medium.com/how-to-automate-nexus-setup-process-5755183bc322) 
+* All scripts based on -> 
 For more script example see [Sonatype repository](https://github.com/sonatype-nexus-community/nexus-scripting-examples)
 
 ```bash
